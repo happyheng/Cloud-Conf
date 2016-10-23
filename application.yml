@@ -1,0 +1,7 @@
+info:
+  description: application
+  url: https://github.com/happyheng/Cloud-Conf
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8888
